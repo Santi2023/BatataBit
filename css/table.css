@@ -1,0 +1,24 @@
+.main-tables-container {
+    margin: 0 auto;
+}
+
+.main-tables-container::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+.plans-container--slider {
+    justify-content: center;
+}
+
+.plans-container--slider::-webkit-scrollbar-track {
+    background-color: transparent;
+}
